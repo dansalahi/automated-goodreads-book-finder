@@ -44,9 +44,14 @@ In the project directory, you can run:
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-#### `npx playwright test`
+#### `yarn test`
 
 Regarding the testing use this command.
+
+
+#### `yarn test-report`
+
+execute the test and show the report
 
 <!-- ROADMAP -->
 ## Roadmap
