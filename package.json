@@ -1,0 +1,12 @@
+{
+  "name": "automated-goodreads-book-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dansalahi/automated-goodreads-book-finder",
+  "author": "daniel salahi <dan.salahii@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  },
+  "scripts": {}
+}
